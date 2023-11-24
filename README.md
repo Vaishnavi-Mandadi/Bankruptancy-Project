@@ -1,4 +1,4 @@
-# **Bankruptcy Prediction Model for Companies**
+# **Bankruptcy Prediction Model**
 
 ## **Overview**
 This project focuses on developing a machine learning model to predict the bankruptcy of companies based on financial data. Utilizing a dataset encompassing over 6800 companies with detailed financial ratios, the model aims to discern patterns that indicate potential bankruptcy.
